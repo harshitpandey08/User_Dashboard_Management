@@ -140,7 +140,6 @@ Contributions are welcome! If you have suggestions or improvements, feel free to
    ```bash
    git push origin feature/YourFeature
    ```
-5. Open a pull request.
 
 ## License
 
